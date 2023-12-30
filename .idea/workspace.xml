@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="db129b41-b65a-4c90-bbc4-293a06a932a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TMS_AnOnl_17_Lesson_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dva_massiva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Massiv_chisel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinMax_chislo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Puzirki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Udalenie_Chisla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zamena_chisel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n_chisel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2aG4xlC2RSXb7iHGp4WwrilIbt2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlphabetSort.executor": "Run",
+    "Application.ArrayOfEven.executor": "Run",
+    "Application.Dva_massiva.executor": "Run",
+    "Application.Imena.executor": "Run",
+    "Application.Massiv_chisel.executor": "Run",
+    "Application.MaxMinAverage.executor": "Run",
+    "Application.MinMax_chislo.executor": "Run",
+    "Application.OddIndex.executor": "Run",
+    "Application.Puzirki.executor": "Run",
+    "Application.Udalenie_Chisla.executor": "Run",
+    "Application.Zamena_chisel.executor": "Run",
+    "Application.n_chisel.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/victor/IdeaProjects/TMS_AnOnl_17_Lesson_4/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Puzirki">
+    <configuration name="AlphabetSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlphabetSort" />
+      <module name="TMS_AnOnl_17_Lesson_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Imena" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Imena" />
+      <module name="TMS_AnOnl_17_Lesson_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OddIndex" />
+      <module name="TMS_AnOnl_17_Lesson_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Puzirki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Puzirki" />
+      <module name="TMS_AnOnl_17_Lesson_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zamena_chisel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zamena_chisel" />
+      <module name="TMS_AnOnl_17_Lesson_4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Puzirki" />
+        <item itemvalue="Application.Imena" />
+        <item itemvalue="Application.AlphabetSort" />
+        <item itemvalue="Application.Zamena_chisel" />
+        <item itemvalue="Application.OddIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-249ae16d76d6-a618e4d4" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db129b41-b65a-4c90-bbc4-293a06a932a8" name="Changes" comment="" />
+      <created>1703931833509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703931833509</updated>
+    </task>
+    <servers />
+  </component>
+</project>
